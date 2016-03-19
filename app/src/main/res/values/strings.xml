@@ -1,0 +1,30 @@
+<resources>
+
+
+    <string name="api_key">ENTER API KEY HERE!!!</string>
+
+
+    <string name="app_name">"The Movie App "</string>
+
+    <string name="action_settings">Sort by...</string>
+
+
+    <string name="title_activity_movie_description">MovieDescription</string>
+
+    <string name="BASE_URL_MOVIE">http://api.themoviedb.org/3/discover/movie?</string>
+    <string name="base_poster_path">http://image.tmdb.org/t/p/w342</string>
+    <string name="base_backdrop_path">http://image.tmdb.org/t/p/original</string>
+
+    <string name="pref_sync_summ">Select Sort Preference</string>
+    <string name="rating_denominator">/10</string>
+    <string name="sort_by_key">pref_sync</string>
+    <string name="pref_sync">Sorting Preference</string>
+    <string name="pref_syncConnection_default">popularity.desc</string>
+    <string name="pref_sync_keytwo">Select Your Choice:</string>
+    <string name="pref_order">pref_order</string>
+    <string name="primary_release_year">primary_release_year</string>
+    <string name="api_param">api_key</string>
+    <string name="query_param">sort_by</string>
+
+
+</resources>
