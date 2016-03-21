@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="@string/pref_syncConnection_default"
+        android:dialogTitle="@string/pref_sync_keytwo"
+        android:entries="@array/pref_list_titles"
+        android:entryValues="@array/pref_list_values"
+        android:key="@string/pref_order"
+        android:title="Sorting Preference"
+        android:summary="@string/pref_sync_summ" />
+
+
+</PreferenceScreen>
+<!-- From: file:/C:/Users/Siddharth/Desktop/PPop_Movie_App-master/app/src/main/res/xml/pref_general.xml -->

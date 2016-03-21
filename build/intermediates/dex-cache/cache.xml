@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Siddharth\Desktop\PPop_Movie_App-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\Siddharth\Desktop\PPop_Movie_App-master\app\build\intermediates\pre-dexed\debug\classes-d1be9c2a699e95e648c5a548b5c622fd8e86053e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\Siddharth\Desktop\PPop_Movie_App-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0-8dacc4285c2ae29e998bbc7cc13934a00b085d03.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Siddharth\Desktop\PPop_Movie_App-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-2be34dcdbb40b8a8652cc46d371e55885e7f1298.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth\Desktop\PPop_Movie_App-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\Siddharth\Desktop\PPop_Movie_App-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0-0aa049c42f1fcbcd9c5c6a0bce9c63f654856a76.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth\Desktop\PPop_Movie_App-master\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="897400f08e8b3f5e290a5da388973f7cfe700965">
+        <dex dex="C:\Users\Siddharth\Desktop\PPop_Movie_App-master\app\build\intermediates\pre-dexed\debug\classes-633ef981b35d6f73c342cfe6482d34e42ad1bcb9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siddharth\Desktop\PPop_Movie_App-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Siddharth\Desktop\PPop_Movie_App-master\app\build\intermediates\pre-dexed\debug\classes-112460b802fa8168e5596fadcf24d121f14a4f9a.jar" />
+    </item>
+
+</items>
